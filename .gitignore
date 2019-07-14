@@ -1,6 +1,7 @@
 # Don't track content of these folders
-src/GradeBook/bin/
-test/GradeBook/bin/
+**/bin
+**/obj
+
 
 
 # Compiled source #
