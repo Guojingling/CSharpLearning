@@ -1,0 +1,59 @@
+#
+# On branch master
+# Your branch is ahead of 'origin/master' by 1 commit.
+#   (use "git push" to publish your local commits)
+#
+# Changes to be committed:
+#	deleted:    .vscode/launch.json
+#	deleted:    .vscode/tasks.json
+#	deleted:    gradebook.sln
+#	deleted:    src/GradeBook/Book.cs
+#	deleted:    src/GradeBook/GradeBook.csproj
+#	deleted:    src/GradeBook/Program.cs
+#	deleted:    src/GradeBook/Statistics.cs
+#	deleted:    src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.deps.json
+#	deleted:    src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.dll
+#	deleted:    src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.pdb
+#	deleted:    src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.runtimeconfig.dev.json
+#	deleted:    src/GradeBook/bin/Debug/netcoreapp2.2/GradeBook.runtimeconfig.json
+#	deleted:    src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.AssemblyInfo.cs
+#	deleted:    src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.AssemblyInfoInputs.cache
+#	deleted:    src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.assets.cache
+#	deleted:    src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.csproj.CoreCompileInputs.cache
+#	deleted:    src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.csproj.FileListAbsolute.txt
+#	deleted:    src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.csprojAssemblyReference.cache
+#	deleted:    src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.dll
+#	deleted:    src/GradeBook/obj/Debug/netcoreapp2.2/GradeBook.pdb
+#	deleted:    src/GradeBook/obj/GradeBook.csproj.nuget.cache
+#	deleted:    src/GradeBook/obj/GradeBook.csproj.nuget.dgspec.json
+#	deleted:    src/GradeBook/obj/GradeBook.csproj.nuget.g.props
+#	deleted:    src/GradeBook/obj/GradeBook.csproj.nuget.g.targets
+#	deleted:    src/GradeBook/obj/project.assets.json
+#	deleted:    test/GradeBook.tests/BookTests.cs
+#	deleted:    test/GradeBook.tests/GradeBook.tests.csproj
+#	deleted:    test/GradeBook.tests/TypeTests.cs
+#	deleted:    test/GradeBook.tests/bin/Debug/netcoreapp2.2/GradeBook.dll
+#	deleted:    test/GradeBook.tests/bin/Debug/netcoreapp2.2/GradeBook.pdb
+#	deleted:    test/GradeBook.tests/bin/Debug/netcoreapp2.2/GradeBook.tests.deps.json
+#	deleted:    test/GradeBook.tests/bin/Debug/netcoreapp2.2/GradeBook.tests.dll
+#	deleted:    test/GradeBook.tests/bin/Debug/netcoreapp2.2/GradeBook.tests.pdb
+#	deleted:    test/GradeBook.tests/bin/Debug/netcoreapp2.2/GradeBook.tests.runtimeconfig.dev.json
+#	deleted:    test/GradeBook.tests/bin/Debug/netcoreapp2.2/GradeBook.tests.runtimeconfig.json
+#	deleted:    test/GradeBook.tests/bin/Debug/netcoreapp2.2/xunit.runner.reporters.netcoreapp10.dll
+#	deleted:    test/GradeBook.tests/bin/Debug/netcoreapp2.2/xunit.runner.utility.netcoreapp10.dll
+#	deleted:    test/GradeBook.tests/bin/Debug/netcoreapp2.2/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+#	deleted:    test/GradeBook.tests/obj/Debug/netcoreapp2.2/GradeBook.tests.AssemblyInfo.cs
+#	deleted:    test/GradeBook.tests/obj/Debug/netcoreapp2.2/GradeBook.tests.AssemblyInfoInputs.cache
+#	deleted:    test/GradeBook.tests/obj/Debug/netcoreapp2.2/GradeBook.tests.assets.cache
+#	deleted:    test/GradeBook.tests/obj/Debug/netcoreapp2.2/GradeBook.tests.csproj.CopyComplete
+#	deleted:    test/GradeBook.tests/obj/Debug/netcoreapp2.2/GradeBook.tests.csproj.CoreCompileInputs.cache
+#	deleted:    test/GradeBook.tests/obj/Debug/netcoreapp2.2/GradeBook.tests.csproj.FileListAbsolute.txt
+#	deleted:    test/GradeBook.tests/obj/Debug/netcoreapp2.2/GradeBook.tests.csprojAssemblyReference.cache
+#	deleted:    test/GradeBook.tests/obj/Debug/netcoreapp2.2/GradeBook.tests.dll
+#	deleted:    test/GradeBook.tests/obj/Debug/netcoreapp2.2/GradeBook.tests.pdb
+#	deleted:    test/GradeBook.tests/obj/GradeBook.tests.csproj.nuget.cache
+#	deleted:    test/GradeBook.tests/obj/GradeBook.tests.csproj.nuget.dgspec.json
+#	deleted:    test/GradeBook.tests/obj/GradeBook.tests.csproj.nuget.g.props
+#	deleted:    test/GradeBook.tests/obj/GradeBook.tests.csproj.nuget.g.targets
+#	deleted:    test/GradeBook.tests/obj/project.assets.json
+#
