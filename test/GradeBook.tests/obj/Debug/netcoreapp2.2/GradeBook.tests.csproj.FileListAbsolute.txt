@@ -1,0 +1,17 @@
+G:\Jing\Dev\gradebook\test\GradeBook.tests\bin\Debug\netcoreapp2.2\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+G:\Jing\Dev\gradebook\test\GradeBook.tests\bin\Debug\netcoreapp2.2\xunit.runner.reporters.netcoreapp10.dll
+G:\Jing\Dev\gradebook\test\GradeBook.tests\bin\Debug\netcoreapp2.2\xunit.runner.utility.netcoreapp10.dll
+G:\Jing\Dev\gradebook\test\GradeBook.tests\bin\Debug\netcoreapp2.2\GradeBook.tests.deps.json
+G:\Jing\Dev\gradebook\test\GradeBook.tests\bin\Debug\netcoreapp2.2\GradeBook.tests.runtimeconfig.json
+G:\Jing\Dev\gradebook\test\GradeBook.tests\bin\Debug\netcoreapp2.2\GradeBook.tests.runtimeconfig.dev.json
+G:\Jing\Dev\gradebook\test\GradeBook.tests\bin\Debug\netcoreapp2.2\GradeBook.tests.dll
+G:\Jing\Dev\gradebook\test\GradeBook.tests\bin\Debug\netcoreapp2.2\GradeBook.tests.pdb
+G:\Jing\Dev\gradebook\test\GradeBook.tests\obj\Debug\netcoreapp2.2\GradeBook.tests.csprojAssemblyReference.cache
+G:\Jing\Dev\gradebook\test\GradeBook.tests\obj\Debug\netcoreapp2.2\GradeBook.tests.csproj.CoreCompileInputs.cache
+G:\Jing\Dev\gradebook\test\GradeBook.tests\obj\Debug\netcoreapp2.2\GradeBook.tests.AssemblyInfoInputs.cache
+G:\Jing\Dev\gradebook\test\GradeBook.tests\obj\Debug\netcoreapp2.2\GradeBook.tests.AssemblyInfo.cs
+G:\Jing\Dev\gradebook\test\GradeBook.tests\obj\Debug\netcoreapp2.2\GradeBook.tests.dll
+G:\Jing\Dev\gradebook\test\GradeBook.tests\obj\Debug\netcoreapp2.2\GradeBook.tests.pdb
+G:\Jing\Dev\gradebook\test\GradeBook.tests\bin\Debug\netcoreapp2.2\GradeBook.dll
+G:\Jing\Dev\gradebook\test\GradeBook.tests\bin\Debug\netcoreapp2.2\GradeBook.pdb
+G:\Jing\Dev\gradebook\test\GradeBook.tests\obj\Debug\netcoreapp2.2\GradeBook.tests.csproj.CopyComplete

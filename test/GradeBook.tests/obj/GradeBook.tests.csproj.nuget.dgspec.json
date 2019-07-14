@@ -1,0 +1,124 @@
+{
+  "format": 1,
+  "restore": {
+    "G:\\Jing\\Dev\\gradebook\\test\\gradebook.tests\\GradeBook.tests.csproj": {}
+  },
+  "projects": {
+    "G:\\Jing\\Dev\\gradebook\\src\\gradebook\\GradeBook.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Jing\\Dev\\gradebook\\src\\gradebook\\GradeBook.csproj",
+        "projectName": "GradeBook",
+        "projectPath": "G:\\Jing\\Dev\\gradebook\\src\\gradebook\\GradeBook.csproj",
+        "packagesPath": "C:\\Users\\Jing\\.nuget\\packages\\",
+        "outputPath": "G:\\Jing\\Dev\\gradebook\\src\\gradebook\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jing\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "G:\\Jing\\Dev\\gradebook\\test\\gradebook.tests\\GradeBook.tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "G:\\Jing\\Dev\\gradebook\\test\\gradebook.tests\\GradeBook.tests.csproj",
+        "projectName": "GradeBook.tests",
+        "projectPath": "G:\\Jing\\Dev\\gradebook\\test\\gradebook.tests\\GradeBook.tests.csproj",
+        "packagesPath": "C:\\Users\\Jing\\.nuget\\packages\\",
+        "outputPath": "G:\\Jing\\Dev\\gradebook\\test\\gradebook.tests\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Jing\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.2"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.2": {
+            "projectReferences": {
+              "G:\\Jing\\Dev\\gradebook\\src\\gradebook\\GradeBook.csproj": {
+                "projectPath": "G:\\Jing\\Dev\\gradebook\\src\\gradebook\\GradeBook.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.2": {
+          "dependencies": {
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[16.0.1, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.2.0, )",
+              "autoReferenced": true
+            },
+            "xunit": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            },
+            "xunit.runner.visualstudio": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    }
+  }
+}
